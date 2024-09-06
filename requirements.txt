@@ -7,5 +7,5 @@ matplotlib
 streamlit
 seaborn
 plotly
-cv2
+opencv-python
 
