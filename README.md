@@ -1,5 +1,5 @@
 
-#** Cat and Dog Classification using Support Vector Machine (SVM)**
+# Cat and Dog Classification using Support Vector Machine (SVM)
 
 This project demonstrates how to implement a Support Vector Machine (SVM) model to classify images of cats and dogs using the Kaggle Cats and Dogs dataset. The goal is to build a robust image classifier that can accurately distinguish between cats and dogs.
 
